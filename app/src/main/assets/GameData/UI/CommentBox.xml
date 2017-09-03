@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<element type="Window">
+	<attribute name="Name" value="CommentWindow" />
+	<attribute name="Size" value="200 50" />
+	<attribute name="Horiz Alignment" value="Center" />
+	<attribute name="Vert Alignment" value="Bottom" />
+	<element type="Button" style="CloseButton">
+		<attribute name="Name" value="Close" />
+		<attribute name="Horiz Alignment" value="Right" />
+	</element>
+	<element type="Text">
+		<attribute name="Name" value="Comment_Text" />
+		<attribute name="Horiz Alignment" value="Center" />
+		<attribute name="Vert Alignment" value="Center" />
+		<attribute name="Color" value="1 1 0.85 1" />
+		<attribute name="Top Left Color" value="1 1 0.85 1" />
+		<attribute name="Top Right Color" value="1 1 0.85 1" />
+		<attribute name="Bottom Left Color" value="1 1 0.85 1" />
+		<attribute name="Bottom Right Color" value="1 1 0.85 1" />
+		<attribute name="Font Size" value="14" />
+		<attribute name="Text" value="Pause...." />
+		<attribute name="Text Alignment" value="Center" />
+		<attribute name="Hover Color" value="1 0 1 1" />
+		<attribute name="Effect Color" value="1 0 1 1" />
+	</element>
+</element>
